@@ -34,7 +34,7 @@ At this stage, I begin to familiarize myself with the data. I address missing an
   
 ## Visualization and Analysis
 
-![](covid_ananlysis.PNG)
+![](cholera.PNG)
 - The analysis disclosed that September recorded the highest mortality rate with 180 deaths.
 - Regarding gender-specific impacts, the data reveals that cholera had a more pronounced effect on women with 130 cases,    in contrast to 118 cases among men.
 - Most of the fatalities, totaling 95, were observed among young adults, followed by 53 among children, 38 among old.       adults, 33 among youths, 18 among the elderly, and 11 among 
