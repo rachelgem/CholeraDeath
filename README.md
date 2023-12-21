@@ -1,5 +1,6 @@
 ## Stockholm Cholera Outbreak Analysis
 
+![](Cholera.PNG)
 
 ****
 ## Introduction
