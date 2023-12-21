@@ -27,7 +27,7 @@ At this stage, I begin to familiarize myself with the data. I address missing an
 
 
 ## Data Cleaning and Preprocessing
-- I identified and remove duplicate entries from death rate column to prevent skewing my analysis with redundant            information.
+- I identified and remove duplicate entries from death rate column to prevent skewing my analysis with redundant information.
 - I successfully formatted the monthly data column into a date format.
 - I corrected data entry errors and anomalies that have occurred during data recording.
 
